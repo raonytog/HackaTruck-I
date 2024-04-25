@@ -26,3 +26,16 @@ True: True
 while (True) {
     // bloco de codigos
 }
+
+/***********funcao***********/
+/*
+* func eh a def de funcao
+* nomeDoMetodo eh o nome do metodo mesmo
+* numero eh o nome da variavel passada
+* : <tipo> eh o tipo esperado da variavel passada como parametro
+* -> <tipo> eh o tipo de retorno da funcao
+*/
+
+func nomeDoMetodo(numero: Int) -> Int {
+    //Corpo do método
+}

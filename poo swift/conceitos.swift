@@ -3,6 +3,7 @@
 Basicamente, classes são as categorias e os objetos oq se encaixam nas categorias
 Como a classe Carro, os objetos dela podem ser 'gol', 'porche', 'bmw'...
 */
+
 class Carro {
     // propriedades sao os atributos comuns as classe
     // o '?' pós as variaveis significa ser opicional
